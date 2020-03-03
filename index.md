@@ -14,6 +14,7 @@ layout: page
 ## 개념도
 <img src="/assets/concept/concept.png" width="800px" height="550px">
 
+-----------------
 
 ## 연구 내용
 
