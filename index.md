@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: 과제 개념
 feature_text: |
   ## Griffin-Edge
   10msec 미만의 서비스 응답 속도를 보장하는 초저지연 지능형 클라우드 엣지 SW 플랫폼 핵심 기술 개발
