@@ -12,7 +12,7 @@ layout: page
 
 
 ## 개념도
-<img src="/assets/concept/concept.png" width="450px" height="300px"></img>
+<img src="/assets/concept/concept.png">
 
 
 ## 연구 내용
