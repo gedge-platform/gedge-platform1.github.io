@@ -1,4 +1,4 @@
-# [Griffin-edge](https://alembic.darn.es/)
+# [Griffin-edge](https://griffin-edge.github.io)
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
 ⚗ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.
