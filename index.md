@@ -10,7 +10,6 @@ layout: page
 
 지능형 클라우드 엣지 SW 플랫폼은 대규모 엣지 단말들이 생성하는 방대한 데이터의 중앙 클라우드 집중화로 인한 처리 및 전송 지연 극복을 위해 단말 근접 위치에서 데이터를 처리하고, 중앙 클라우드-엣지-단말 간 분산 협업을 기반으로 응답 속도 민감형 서비스를 지원하는 클라우드 엣지 플랫폼 기술
 
-# {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
 
 ## 개념도
 
