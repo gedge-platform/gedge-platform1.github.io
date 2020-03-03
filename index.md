@@ -30,7 +30,14 @@ layout: page
 - Has 9 of the most popular networks as performant sharing buttons
 - Has documentation
 
-## Examples
+## 연구 내용
+
+- 지능형 클라우드 엣지 플랫폼의 자율 구성 및 통합 관리 기술
+- 데이터의 초저지연 처리를 위한 고속 클라우드 엣지 플랫폼 기술
+- 중앙클라우드-클라우드엣지(엣지), 엣지-엣지 간 협업을 위한 서비스 프레임워크 기술
+- 클라우드 엣지 기반의 지능형 서비스 운용 최적화 지원 기술
+- 클라우드 엣지 컴퓨팅 기반 기술 표준 개발
+- 지능형 클라우드 엣지 SW 플랫폼의 활용 사례 PoC 발굴 및 검증
 
 Here are a few examples of Alembic out in the wild being used in a variety of ways:
 
