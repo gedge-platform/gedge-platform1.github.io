@@ -1,8 +1,8 @@
 ---
 title: Welcome
 feature_text: |
-  ## Griffin-edge
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## Griffin-Edge
+  10msec 미만의 서비스 응답 속도를 보장하는 초저지연 지능형 클라우드 엣지 SW 플랫폼 핵심 기술 개발
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 layout: page
