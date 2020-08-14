@@ -1,4 +1,4 @@
-<img src="assets/logos/gedge-platform-logo-only.jpg">
+<img src="assets/logos/gedge-platform-logo-only.jpg" width="100">
 
 ### GEdge-Platform
 
