@@ -1,5 +1,5 @@
 ---
-title: 과제 개요
+title: GEdge-Platform
 feature_text: |
   ## Griffin-Edge
   10msec 미만의 서비스 응답 속도를 보장하는 초저지연 지능형 클라우드 엣지 SW
