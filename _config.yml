@@ -19,14 +19,14 @@ locale                   : "ko"
 title                    : "GEdge-Platform Community"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Developer"
+name                     : "개발자 커뮤니티"
 description              : "GEdge Platform Developer"
 url                      : "https://gedge-platform.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gedge-platform/gedge-platform.github.io"
 teaser                   : #"/assets/images/gedge-arch.png"
 logo                     : "/assets/images/gedge-platform-logo-only.jpg"
-masthead_title           : "GEdge-Platform"
+masthead_title           : #"GEdge-Platform"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
