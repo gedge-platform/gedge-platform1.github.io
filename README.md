@@ -3,3 +3,7 @@
 GEdge-Platform is a cloud edge computing platform for ultra low-latency services at the edge of the network.
 
 This Site is made with Minimal Mistakes Jekyll theme which is the open source static web-site builder
+
+## Minimal Mistakes Jekyll theme Usage
+
+For detailed instructions on how to configure, customize, add/migrate content, and more read the [theme's documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
