@@ -1,8 +1,8 @@
 # [GEdge-Platform Project](https://gedge-platform.github.io)
 
-GEdge-Platform is a cloud edge computing platform for ultra low-latency services at the edge of the network.
+This Repository is for the GEdge-Platform project web site. 
 
-This Site is made with Minimal Mistakes Jekyll theme which is the open source static web-site builder
+The web site is made with Minimal Mistakes Jekyll theme which is the open source static web-site builder
 
 #### Minimal Mistakes Jekyll theme Usage
 
