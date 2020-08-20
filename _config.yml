@@ -24,8 +24,8 @@ description              : "GEdge Platform 개발자 커뮤니티"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/gedge-arch.png"
-logo                     : "/assets/gedge-arch.png"
+teaser                   : #"/assets/images/gedge-arch.png"
+logo                     : "/assets/gedge-platform-logo-only.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
