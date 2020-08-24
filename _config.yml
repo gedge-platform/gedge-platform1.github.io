@@ -121,11 +121,9 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Technology
+- title: Why GEdge
   url: /elements/
 - title: Community
-  url: /blog/  
-- title: FAQS
   url: /blog/  
 - title: Blog
   url: /blog/  
