@@ -121,10 +121,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: About
+- title: Technology
   url: /elements/
-- title: Documentation
-  url: /categories/
 - title: Community
   url: /blog/  
 - title: FAQS
