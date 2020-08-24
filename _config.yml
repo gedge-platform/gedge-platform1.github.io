@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: kr # Set the site language
 title: "GEdge" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo@96px.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/icon_title.png" # Site logo, also used in jekyll-seo-tag
 description: "GEdge-Platform is a cloud edge computing platform for ultra low-latency services at the edge" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
