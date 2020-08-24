@@ -3,17 +3,31 @@ title:
 feature_text: |  
   # Welcome to GEdge Platform  
   <span style="color:white;font-weight:bold">
-  GEdge-Platform is a cloud edge computing platform for ultra low-latency services at the edge
+  An Open Cloud Edge SW Plaform to enable Intelligent Edge Service
   </span> 
 feature_image: "/assets/back1.png"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: 
 ---
+## GEdge-Platform is a cloud edge computing platform for ultra low-latency services at the edge of the network.   
+It can supports ultra-responsive service experiences by rapidly processing massive data at the edge without delays in processing and transmission to central cloud. For the Edge AI service,   
+it provides real-time, distribued, high-reliability and cost-optimal AI computing support at the edge through the cloud edge collaboration, cluster management and intelligent scheduling of multi-tier clusters.   
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+### About GEege Platform
++	System Name 
+    +	GEdge Platform (Griffin Edge Platform)
+        + 초저지연 지능형 클라우드 엣지 플랫폼 
++	System Goal 
+    +	Development of intelligent cloud edge platform technology that supports ultra-low-latency data processing based on collaboration between core cloud-cloud edge-terminal for response speed-sensitive service    
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
-
-### About GEege
++	System Conceptual Diagram   
+<img src="/assets/logos/diagram.png" width="800px" height="550px">   
+*	System Components
+    +	GS : Gedge Service plaform (초저지연 클라우드 엣지 서비스 플랫폼)    
+        +	GS-Engine : 초처지연 데이터 처리 프레임워크
+        +	GS-Link : 서비스 협업 프레임워크
+        +	GS-AI : 지능형 서비스 운용 프레임워크 
+    +	GM : Gedge Management plaform (다중 클라우드 엣지 관리 플랫폼)
+        +	GM-Center : 플랫폼 관리 프레임워크 
 
 ### Features
 - 테스트 플랫폼 입니다. 
@@ -41,6 +55,7 @@ Here are a few examples of Alembic out in the wild being used in a variety of wa
 - [case2111.github.io](https://case2111.github.io/)
 - [karateca.org](https://www.karateca.org/)
 
+{% include button.html text="Technology" icon="dribbble" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
 ## Installation
 
 ### Quick setup
