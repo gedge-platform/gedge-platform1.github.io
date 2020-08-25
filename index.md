@@ -10,7 +10,7 @@ excerpt: ""
 ---
 ## GEdge-Platform is a cloud edge computing platform for ultra low-latency services at the edge of the network.   
 It can supports ultra-responsive service experiences by rapidly processing massive data at the edge without delays in processing and transmission to central cloud. For the Edge AI service,   
-it provides real-time, distribued, high-reliability and cost-optimal AI computing support at the edge through the cloud edge collaboration, cluster management and intelligent scheduling of multi-tier clusters.   
+It provides real-time, distribued, high-reliability and cost-optimal AI computing support at the edge through the cloud edge collaboration, cluster management and intelligent scheduling of multi-tier clusters.   
 
 ### About GEege Platform
 +	System Name 
@@ -28,5 +28,5 @@ it provides real-time, distribued, high-reliability and cost-optimal AI computin
     +	GM : Gedge Management plaform (Multi-Cloud Edge Management Platform)
         +	GM-Center : Platform Management Framework 
 
-{% include button.html text="Technology" icon="dribbble" link="https://gedge-platform.github.io/elements" color="#0366d6" %} {% include button.html text="Community" icon="link" link="https://gedge-platform.github.io/blog" color="#0d94e7" %} {% include button.html text="Downloads" icon="github" link="https://github.com/gedge-platform" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
+{% include button.html text="Technology" icon="dribbble" link="https://gedge-platform.github.io/elements" color="#0366d6" %} {% include button.html text="Community" icon="link" link="https://gedge-platform.github.io/blog" color="#0d94e7" %} {% include button.html text="Downloads" icon="github" link="https://github.com/gedge-platform" %} {% include button.html text="Facebook" icon="facebook" link="https://facebook.com" color="#0d94e7" %}
 
