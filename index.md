@@ -6,6 +6,7 @@ feature_text: |
   An Open Cloud Edge SW Plaform to enable Intelligent Edge Service
   </span> 
 feature_image: "/assets/back1.png"
+
 excerpt: 
 ---
 ## GEdge-Platform is a cloud edge computing platform for ultra low-latency services at the edge of the network.   
