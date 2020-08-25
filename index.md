@@ -19,7 +19,6 @@ It provides real-time, distribued, high-reliability and cost-optimal AI computin
 +	System Conceptual Diagram   
 
 {% include figure.html image="/assets/logos/diagram.png" caption="GEdge Platform : Intelligent Cloud Edge Platform" alt="Image with just alt text" %}
-<img src="/assets/logos/diagram.png" width="800px" height="550px">   
 *	System Components
     +	GS : Gedge Service plaform (Ultra low-latency Cloud Edge Service Platform)    
         +	GS-Engine : Ultra low-latency Data Processing Framework
