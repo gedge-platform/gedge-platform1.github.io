@@ -27,5 +27,5 @@ It provides real-time, distribued, high-reliability and cost-optimal AI computin
     +	GM : Gedge Management plaform (Multi-Cloud Edge Management Platform)
         +	GM-Center : Platform Management Framework 
 
-{% include button.html text="Technology" icon="dribbble" link="https://gedge-platform.github.io/elements" color="#0366d6" %}{% include button.html text="Community" icon="link" link="https://gedge-platform.github.io/blog" color="#0d94e7" %}{% include button.html text="Downloads" icon="github" link="https://github.com/gedge-platform" %}
+{% include button.html text="Technology" icon="dribbble" link="https://gedge-platform.github.io/elements" color="#0366d6" %}{% include button.html text="Community" icon="link" link="https://gedge-platform.github.io/blog" color="#0d94e7" %}{% include button.html text="Downloads" icon="github" link="https://github.com/gedge-platform" %}{% include button.html text="Facebook" icon="facebook" link="https://facebook.com" color="#0d94e7" %}
 
