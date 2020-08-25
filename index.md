@@ -17,6 +17,8 @@ It provides real-time, distribued, high-reliability and cost-optimal AI computin
     +	Development of intelligent cloud edge platform technology that supports ultra-low-latency data processing based on collaboration between core cloud-cloud edge-terminal for response speed-sensitive service    
 
 +	System Conceptual Diagram   
+
+{% include figure.html image="/assets/logos/diagram.png" caption="GEdge Platform : Intelligent Cloud Edge Platform" width="300" height="800" %}
 <img src="/assets/logos/diagram.png" width="800px" height="550px">   
 *	System Components
     +	GS : Gedge Service plaform (Ultra low-latency Cloud Edge Service Platform)    
