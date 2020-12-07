@@ -7,7 +7,6 @@ feature_text: |
   </span> 
 feature_image: "/assets/Technology Back.jpg"
 
-aside: true
 ---
 
 # Heading 1
