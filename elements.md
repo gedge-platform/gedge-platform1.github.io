@@ -6,7 +6,7 @@ feature_text: |
   An Open Cloud Edge SW Plaform to enable Intelligent Edge Service
   </span> 
 feature_image: "/assets/Technology Back.jpg"
-excerpt: "A demo of Markdown and HTML includes"
+
 aside: true
 ---
 
