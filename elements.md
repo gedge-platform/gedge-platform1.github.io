@@ -2,7 +2,7 @@
 title: Elements
 feature_text: |
   A demo of Markdown and HTML includes
-feature_image: "https://www.ciokorea.com/files/ciokr/2020/09/GettyImages-1254716730.jpg"
+feature_image: "https://ww2cdn.frost.com/wp-content/uploads/2020/10/edge-computing-graphic-1080x561.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
