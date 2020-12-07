@@ -1,5 +1,5 @@
 ---
-title: Elements
+title:
 feature_text: |
   # Welcome to GEdge Platform  
   <span style="color:white;font-weight:bold">
