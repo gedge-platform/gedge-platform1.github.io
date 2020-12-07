@@ -5,7 +5,7 @@ feature_text: |
   <span style="color:white;font-weight:bold">
   An Open Cloud Edge SW Plaform to enable Intelligent Edge Service
   </span> 
-feature_image: "/assets/Technology Back.jpg"
+feature_image: "/assets/back1.png"
 
 ---
 
