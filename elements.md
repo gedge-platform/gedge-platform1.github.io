@@ -5,11 +5,12 @@ feature_text: |
   <span style="color:white;font-weight:bold">
   GEdge Platform will lead Cloud-Edge Collaboration
   </span> 
-feature_image: "/assets/Technology Back.jpg"
+feature_image: "/assets/technology_back_01.jpg"
 ---
 ### GEdge Platform 개요
 
 {% include figure.html image="/assets/technology_01.png" alt="Image with just alt text" %}
+
 
 ### 주요 기술 내용
 
