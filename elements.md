@@ -12,11 +12,11 @@ feature_image: "/assets/technology_back_03.jpg"
 {% include figure.html image="/assets/technology_01.png" alt="Image with just alt text" %}
 
 
-### 주요 기술 내용
+### 주요 기술
 
 {% include figure.html image="/assets/technology_02.png" alt="Image with just alt text" %}
 
-### 세부 기술 내용
+### 세부 기술
 +	초지연 데이터 처리
     +	클라우드의 서비스 처리 대비 통신 지연 시간 감소
     + 초저지연 서비스 제공을 위한 서비스 지연 시간 개선 필요
