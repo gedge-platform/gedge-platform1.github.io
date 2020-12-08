@@ -5,7 +5,7 @@ feature_text: |
   <span style="color:white;font-weight:bold">
   GEdge Platform will lead Cloud-Edge Collaboration
   </span> 
-feature_image: "/assets/technology_back_02.jpg"
+feature_image: "/assets/technology_back_03.jpg"
 ---
 ### GEdge Platform 개요
 
