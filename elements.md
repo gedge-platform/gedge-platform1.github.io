@@ -1,7 +1,7 @@
 ---
 title:  
 feature_text: |  
-  # GEdge Platform : Cloud Edge SW Platform  
+  # GEdge Platform Technology  
   <span style="color:white;font-weight:bold">
   GEdge Platform will lead Cloud-Edge Collaboration
   </span> 
