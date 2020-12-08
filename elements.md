@@ -1,7 +1,7 @@
 ---
 title:
 feature_text: |
-  # Welcome to GEdge Platform  
+# Welcome to GEdge Platform  
   <span style="color:white;font-weight:bold">
   An Open Cloud Edge SW Plaform to enable Intelligent Edge Service
   </span> 
