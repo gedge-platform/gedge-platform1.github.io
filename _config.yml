@@ -123,12 +123,12 @@ navigation_header:
   url: /
 - title: Technology
   url: /elements/
-- title: Community
-  url: /blog/  
-- title: Blog
-  url: /blog/  
-- title: Downloads
-  url: /categories/
+#- title: Community
+#  url: /blog/  
+#- title: Blog
+#  url: /blog/  
+#- title: Downloads
+#  url: /categories/
 
 navigation_footer:
 - title: Created by GEdge Community
