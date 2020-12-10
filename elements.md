@@ -12,9 +12,12 @@ feature_image: "/assets/technology_back_03.jpg"
 {% include figure.html image="/assets/technology_01.png" alt="Image with just alt text" %}
 
 
+
 ### 주요 기술
 
 {% include figure.html image="/assets/technology_02.png" alt="Image with just alt text" %}
+
+
 
 ### 세부 기술
 +	초지연 데이터 처리
@@ -51,6 +54,8 @@ feature_image: "/assets/technology_back_03.jpg"
 {% include figure.html image="/assets/technology_09.png" alt="Image with just alt text" %}
 
 {% include figure.html image="/assets/technology_10.png" alt="Image with just alt text" %}
+
+
 
 ### 활용 사례 PoC
 
