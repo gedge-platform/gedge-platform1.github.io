@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="http://localhost:4000/author/leader/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2021-06-27T17:09:13+09:00</updated>
-  <id>http://localhost:4000/author/leader/feed.xml</id>
+  <link href="https://gedge-platform.github.io/author/leader/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://gedge-platform.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-06-27T18:27:37+09:00</updated>
+  <id>https://gedge-platform.github.io/author/leader/feed.xml</id>
 
   
   
@@ -37,11 +37,11 @@
   
     <entry>
       <title type="html">GEdge Platform</title>
-      <link href="http://localhost:4000/jekyll-basic" rel="alternate" type="text/html" title="GEdge Platform" />
+      <link href="https://gedge-platform.github.io/jekyll-basic" rel="alternate" type="text/html" title="GEdge Platform" />
       <published>2021-06-24T18:17:00+09:00</published>
       <updated>2021-06-24T18:17:00+09:00</updated>
-      <id>http://localhost:4000/jekyll-basic</id>
-      <content type="html" xml:base="http://localhost:4000/jekyll-basic">&lt;p&gt;이글은 지클 베이직입니다.&lt;/p&gt;</content>
+      <id>https://gedge-platform.github.io/jekyll-basic</id>
+      <content type="html" xml:base="https://gedge-platform.github.io/jekyll-basic">&lt;p&gt;이글은 지클 베이직입니다.&lt;/p&gt;</content>
 
       
       
@@ -71,11 +71,11 @@
   
     <entry>
       <title type="html">Out to Sea123</title>
-      <link href="http://localhost:4000/jekyll123456-basic" rel="alternate" type="text/html" title="Out to Sea123" />
+      <link href="https://gedge-platform.github.io/jekyll123456-basic" rel="alternate" type="text/html" title="Out to Sea123" />
       <published>1912-07-24T19:18:00+09:00</published>
       <updated>1912-07-24T19:18:00+09:00</updated>
-      <id>http://localhost:4000/jekyll123456-basic</id>
-      <content type="html" xml:base="http://localhost:4000/jekyll123456-basic">&lt;p&gt;이글은 지클 베이직입니다.12345556&lt;/p&gt;</content>
+      <id>https://gedge-platform.github.io/jekyll123456-basic</id>
+      <content type="html" xml:base="https://gedge-platform.github.io/jekyll123456-basic">&lt;p&gt;이글은 지클 베이직입니다.12345556&lt;/p&gt;</content>
 
       
       

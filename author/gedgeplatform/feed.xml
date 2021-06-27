@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="http://localhost:4000/author/gedgeplatform/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2021-06-27T17:09:13+09:00</updated>
-  <id>http://localhost:4000/author/gedgeplatform/feed.xml</id>
+  <link href="https://gedge-platform.github.io/author/gedgeplatform/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://gedge-platform.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-06-27T18:27:37+09:00</updated>
+  <id>https://gedge-platform.github.io/author/gedgeplatform/feed.xml</id>
 
   
   
@@ -37,11 +37,11 @@
   
     <entry>
       <title type="html">GEdge Platform 기술 공유</title>
-      <link href="http://localhost:4000/python-basic" rel="alternate" type="text/html" title="GEdge Platform 기술 공유" />
+      <link href="https://gedge-platform.github.io/python-basic" rel="alternate" type="text/html" title="GEdge Platform 기술 공유" />
       <published>2021-06-24T18:17:00+09:00</published>
       <updated>2021-06-24T18:17:00+09:00</updated>
-      <id>http://localhost:4000/python-basic</id>
-      <content type="html" xml:base="http://localhost:4000/python-basic">&lt;p&gt;GEdge-Platform is a cloud edge computing platform for ultra low-latency services at the edge of the network.&lt;/p&gt;</content>
+      <id>https://gedge-platform.github.io/python-basic</id>
+      <content type="html" xml:base="https://gedge-platform.github.io/python-basic">&lt;p&gt;GEdge-Platform is a cloud edge computing platform for ultra low-latency services at the edge of the network.&lt;/p&gt;</content>
 
       
       
