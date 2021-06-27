@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>An Open Cloud Edge SW Plaform to enable Intelligent Edge Service</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>GEdge Platform 기본 배포일정2</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-basic&quot;&gt;GEdge Platform 기본 배포일정&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-statement&quot;&gt;GEdge Platform 기본 배포일정2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Thu, 24 Jun 2021 19:18:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/news-statement</link>
+        <guid isPermaLink="true">http://localhost:4000/news-statement</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>GEdge Platform 기본 배포일정</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-basic&quot;&gt;GEdge Platform 기본 배포일정&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-statement&quot;&gt;GEdge Platform 기본 배포일정2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Thu, 24 Jun 2021 19:18:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/news-basic</link>
+        <guid isPermaLink="true">http://localhost:4000/news-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>GEdge Platform</title>
+        
+          <description>&lt;p&gt;이글은 지클 베이직입니다.&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 24 Jun 2021 18:17:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/jekyll-basic</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>GEdge Platform 기술 공유</title>
+        
+          <description>&lt;p&gt;GEdge-Platform is a cloud edge computing platform for ultra low-latency services at the edge of the network.&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 24 Jun 2021 18:17:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/python-basic</link>
+        <guid isPermaLink="true">http://localhost:4000/python-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>GEdge Platform 78910</title>
+        
+          <description>&lt;p&gt;이글은 지클 베이직입니다. 78910&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 24 Jul 1912 19:18:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/jekyll78910-basic</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll78910-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Out to Sea123</title>
+        
+          <description>&lt;p&gt;이글은 지클 베이직입니다.12345556&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 24 Jul 1912 19:18:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/jekyll123456-basic</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll123456-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Out to Sea123</title>
+        
+          <description>&lt;p&gt;이글은 지클 베이직입니다. 1234345656&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 24 Jul 1912 19:18:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/jekyll123-basic</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll123-basic</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
