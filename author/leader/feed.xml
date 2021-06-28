@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="https://gedge-platform.github.io/author/leader/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://gedge-platform.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-06-28T17:51:44+09:00</updated>
+  <updated>2021-06-28T18:15:28+09:00</updated>
   <id>https://gedge-platform.github.io/author/leader/feed.xml</id>
 
   
@@ -90,21 +90,18 @@
 &lt;p&gt;&lt;img src=&quot;../../assets/built/images/edge_concept.png&quot; alt=&quot;Cloud Edge Computing&quot; width=&quot;850&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
 &lt;h4&gt;GEdge 플랫폼 핵심 요소 기술 &lt;/h4&gt;
 &lt;p&gt;&lt;img src=&quot;../../assets/built/images/needs.png&quot; alt=&quot;Cloud Edge Computing Need Technology&quot; width=&quot;850&quot; class=&quot;center&quot; /&gt;
-&lt;img src=&quot;../../assets/built/images/coretech.png&quot; alt=&quot;Cloud Edge Computing Core Technology&quot; width=&quot;850&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;../../assets/built/images/coretech.png&quot; alt=&quot;Cloud Edge Computing Core Technology&quot; width=&quot;750&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
 &lt;h4&gt;GEdge 플랫폼 개념도 &lt;/h4&gt;
-&lt;p&gt;GEdge 플랫폼은 응답 속도 민감형 서비스를 위해, 코어 클라우드-클라우드 엣지-단말 간 협업 기반 초저지연 데이터 처리를 지원한다. 
-&lt;img src=&quot;../../assets/built/images/concept_diagram.png&quot; alt=&quot;GEdge Platform Conceptual Diagram&quot; width=&quot;850&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;GEdge 플랫폼은 응답 속도 민감형 서비스를 위해, 코어 클라우드-클라우드 엣지-단말 간 협업 기반 초저지연 데이터 처리를 지원한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/built/images/concept_diagram.png&quot; alt=&quot;GEdge Platform Conceptual Diagram&quot; width=&quot;750&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
 &lt;h4&gt;GEdge 플랫폼 기능 프레임워크 &amp;amp; SW 스택 &lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;GEdge 플랫폼은 2개의 핵심 플랫폼 및 5개의 기능 프레임워크로 구성된다.&lt;/li&gt;
-  &lt;li&gt;GEdge 플랫폼은 인프라 레이어부터 서비스 레이어까지의 기능을 제공 및 관리한다.
-&lt;img src=&quot;../../assets/built/images/swstack.png&quot; alt=&quot;GEdge Platform Architecture&quot; width=&quot;850&quot; class=&quot;center&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;GEdge 플랫폼은 2개의 핵심 플랫폼 및 5개의 기능 프레임워크로 구성되며 인프라 레이어부터 서비스 레이어까지의 구성 및 관리 기능을 제공한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/built/images/swstack.png&quot; alt=&quot;GEdge Platform Architecture&quot; width=&quot;950&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
 &lt;h4&gt;GEdge 플랫폼 아키텍쳐 &lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;GEdge 플랫폼은 정의된 SW 스택을 기반으로 코어 클라우드-클라우드 엣지간의 서비스 협업을 지원하고 서비스 개발자 및 운영자에게 QoE 보장 서비스 배포 기능을 제공한다.
-&lt;img src=&quot;../../assets/built/images/architecture.png&quot; alt=&quot;GEdge Platform Architecture&quot; width=&quot;850&quot; class=&quot;center&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
+&lt;p&gt;GEdge 플랫폼은 정의된 SW 스택을 기반으로 코어 클라우드-클라우드 엣지간의 서비스 협업을 지원하고 서비스 개발자 및 운영자에게 QoE 보장 서비스 배포 기능을 제공한다.
+&lt;img src=&quot;../../assets/built/images/archi.png&quot; alt=&quot;GEdge Platform Architecture&quot; width=&quot;850&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;</content>
 
       
       
