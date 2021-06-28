@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="https://gedge-platform.github.io/author/leader/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://gedge-platform.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-06-28T18:15:28+09:00</updated>
+  <updated>2021-06-28T18:28:59+09:00</updated>
   <id>https://gedge-platform.github.io/author/leader/feed.xml</id>
 
   
@@ -35,11 +35,91 @@
   
     <entry>
       <title type="html">GS-Engine 프레임워크</title>
-      <link href="https://gedge-platform.github.io/technology-1" rel="alternate" type="text/html" title="GS-Engine 프레임워크" />
+      <link href="https://gedge-platform.github.io/technology-ai" rel="alternate" type="text/html" title="GS-Engine 프레임워크" />
       <published>2021-06-24T19:18:00+09:00</published>
       <updated>2021-06-24T19:18:00+09:00</updated>
-      <id>https://gedge-platform.github.io/technology-1</id>
-      <content type="html" xml:base="https://gedge-platform.github.io/technology-1">&lt;h4&gt;GEdge 서비스 플랫폼 이란? &lt;/h4&gt;
+      <id>https://gedge-platform.github.io/technology-ai</id>
+      <content type="html" xml:base="https://gedge-platform.github.io/technology-ai">&lt;h4&gt;GEdge 서비스 플랫폼 이란? &lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;GEdge Service 플랫폼 :
+대규모 엣지 데이터 저지연 처리 및 서비스
+엣지에서 클라우드 서비스 기반의 컴퓨팅 환경을 제공하고 클라우드-엣지-단말, 엣지-엣지간 협업을 통한 지능형 서비스를 제공하는 분산 클라우드 컴퓨팅 방식&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>manager</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="technology" />
+      
+
+      
+        <summary type="html">GEdge 서비스 플랫폼 이란?</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">GS-Engine 프레임워크</title>
+      <link href="https://gedge-platform.github.io/technology-engine" rel="alternate" type="text/html" title="GS-Engine 프레임워크" />
+      <published>2021-06-24T19:18:00+09:00</published>
+      <updated>2021-06-24T19:18:00+09:00</updated>
+      <id>https://gedge-platform.github.io/technology-engine</id>
+      <content type="html" xml:base="https://gedge-platform.github.io/technology-engine">&lt;h4&gt;GEdge 서비스 플랫폼 이란? &lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;GEdge Service 플랫폼 :
+대규모 엣지 데이터 저지연 처리 및 서비스
+엣지에서 클라우드 서비스 기반의 컴퓨팅 환경을 제공하고 클라우드-엣지-단말, 엣지-엣지간 협업을 통한 지능형 서비스를 제공하는 분산 클라우드 컴퓨팅 방식&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>manager</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="technology" />
+      
+
+      
+        <summary type="html">GEdge 서비스 플랫폼 이란?</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">GS-Link 프레임워크</title>
+      <link href="https://gedge-platform.github.io/technology-link" rel="alternate" type="text/html" title="GS-Link 프레임워크" />
+      <published>2021-06-24T19:18:00+09:00</published>
+      <updated>2021-06-24T19:18:00+09:00</updated>
+      <id>https://gedge-platform.github.io/technology-link</id>
+      <content type="html" xml:base="https://gedge-platform.github.io/technology-link">&lt;h4&gt;GEdge 서비스 플랫폼 이란? &lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;GEdge Service 플랫폼 :
@@ -100,8 +180,9 @@
 
 &lt;p&gt;&lt;img src=&quot;../../assets/built/images/swstack.png&quot; alt=&quot;GEdge Platform Architecture&quot; width=&quot;950&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
 &lt;h4&gt;GEdge 플랫폼 아키텍쳐 &lt;/h4&gt;
-&lt;p&gt;GEdge 플랫폼은 정의된 SW 스택을 기반으로 코어 클라우드-클라우드 엣지간의 서비스 협업을 지원하고 서비스 개발자 및 운영자에게 QoE 보장 서비스 배포 기능을 제공한다.
-&lt;img src=&quot;../../assets/built/images/archi.png&quot; alt=&quot;GEdge Platform Architecture&quot; width=&quot;850&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;</content>
+&lt;p&gt;GEdge 플랫폼은 정의된 SW 스택을 기반으로 코어 클라우드-클라우드 엣지간의 서비스 협업을 지원하고 서비스 개발자 및 운영자에게 QoE 보장 서비스 배포 기능을 제공한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/built/images/archi.png&quot; alt=&quot;GEdge Platform Architecture&quot; width=&quot;950&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;</content>
 
       
       
