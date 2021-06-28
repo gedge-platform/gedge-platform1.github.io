@@ -2,9 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> - Articles</title>
-    <description>An Open Cloud Edge SW Plaform to enable Intelligent Edge Service</description>
+    <description></description>
     <link>
     https://gedge-platform.github.io</link>
+    
+      
+      <item>
+        <title>GS-Engine 프레임워크</title>
+        
+          <description>&lt;h4&gt;GEdge 서비스 플랫폼 이란? &lt;/h4&gt;
+
+</description>
+        
+        <pubDate>Thu, 24 Jun 2021 19:18:00 +0900</pubDate>
+        <link>
+        https://gedge-platform.github.io/technology-1</link>
+        <guid isPermaLink="true">https://gedge-platform.github.io/technology-1</guid>
+      </item>
+      
     
       
       <item>
@@ -46,15 +61,17 @@
     
       
       <item>
-        <title>GEdge Platform</title>
+        <title>GEdge Platform 개념</title>
         
-          <description>&lt;p&gt;이글은 지클 베이직입니다.&lt;/p&gt;
+          <description>&lt;h4&gt;GEdge 플랫폼 이란? &lt;/h4&gt;
+&lt;p&gt;GEdge Platform(Griffin-Edge Platform)은 엣지 컴퓨팅 인프라 확장성을 갖춘 다중 클러스터 아키텍쳐를 기반으로 코어 클라우드-클라우드 엣지-단말간 분산 협업을 통한 초저지연 데이터 처리를 지원하는 클라우드 엣지 컴퓨팅 SW 플랫폼이다.&lt;/p&gt;
+
 </description>
         
         <pubDate>Thu, 24 Jun 2021 18:17:00 +0900</pubDate>
         <link>
-        https://gedge-platform.github.io/jekyll-basic</link>
-        <guid isPermaLink="true">https://gedge-platform.github.io/jekyll-basic</guid>
+        https://gedge-platform.github.io/technology-basic</link>
+        <guid isPermaLink="true">https://gedge-platform.github.io/technology-basic</guid>
       </item>
       
     
@@ -67,50 +84,8 @@
         
         <pubDate>Thu, 24 Jun 2021 18:17:00 +0900</pubDate>
         <link>
-        https://gedge-platform.github.io/python-basic</link>
-        <guid isPermaLink="true">https://gedge-platform.github.io/python-basic</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>GEdge Platform 78910</title>
-        
-          <description>&lt;p&gt;이글은 지클 베이직입니다. 78910&lt;/p&gt;
-</description>
-        
-        <pubDate>Wed, 24 Jul 1912 19:18:00 +0900</pubDate>
-        <link>
-        https://gedge-platform.github.io/jekyll78910-basic</link>
-        <guid isPermaLink="true">https://gedge-platform.github.io/jekyll78910-basic</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Out to Sea123</title>
-        
-          <description>&lt;p&gt;이글은 지클 베이직입니다.12345556&lt;/p&gt;
-</description>
-        
-        <pubDate>Wed, 24 Jul 1912 19:18:00 +0900</pubDate>
-        <link>
-        https://gedge-platform.github.io/jekyll123456-basic</link>
-        <guid isPermaLink="true">https://gedge-platform.github.io/jekyll123456-basic</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Out to Sea123</title>
-        
-          <description>&lt;p&gt;이글은 지클 베이직입니다. 1234345656&lt;/p&gt;
-</description>
-        
-        <pubDate>Wed, 24 Jul 1912 19:18:00 +0900</pubDate>
-        <link>
-        https://gedge-platform.github.io/jekyll123-basic</link>
-        <guid isPermaLink="true">https://gedge-platform.github.io/jekyll123-basic</guid>
+        https://gedge-platform.github.io/blog-basic</link>
+        <guid isPermaLink="true">https://gedge-platform.github.io/blog-basic</guid>
       </item>
       
     
