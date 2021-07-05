@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="https://gedge-platform.github.io/author/edgar/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://gedge-platform.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-06-28T18:28:59+09:00</updated>
+  <updated>2021-07-05T16:16:11+09:00</updated>
   <id>https://gedge-platform.github.io/author/edgar/feed.xml</id>
 
   
@@ -12,9 +12,11 @@
   
 
   
-    <title type="html"> | </title>
+    <title type="html">GEdge Platform | </title>
   
 
+  
+    <subtitle>An Open Cloud Edge SW Plaform to enable Intelligent Edge Service</subtitle>
   
 
   
