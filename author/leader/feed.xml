@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="https://gedge-platform.github.io/author/leader/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://gedge-platform.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-07-05T16:16:11+09:00</updated>
+  <updated>2021-07-07T23:49:57+09:00</updated>
   <id>https://gedge-platform.github.io/author/leader/feed.xml</id>
 
   
@@ -36,75 +36,48 @@
 
   
     <entry>
-      <title type="html">GS-AI 프레임워크</title>
-      <link href="https://gedge-platform.github.io/technology-ai" rel="alternate" type="text/html" title="GS-AI 프레임워크" />
-      <published>2021-06-24T19:18:00+09:00</published>
-      <updated>2021-06-24T19:18:00+09:00</updated>
-      <id>https://gedge-platform.github.io/technology-ai</id>
-      <content type="html" xml:base="https://gedge-platform.github.io/technology-ai">&lt;h4&gt;GS-AI 란? &lt;/h4&gt;
-&lt;p&gt;&lt;br /&gt;
-GS-Engine(초처지연 데이터 처리 프레임워크)은 대규모 앳지 데이터의 전주기 처리 가속 및 고속 네트워크 전송 기술을 기반으로 지능형 서비스의 응답시간을 보장한다.&lt;/p&gt;
+      <title type="html">GEdge Platform 개념</title>
+      <link href="https://gedge-platform.github.io/technology-basic" rel="alternate" type="text/html" title="GEdge Platform 개념" />
+      <published>2021-07-07T18:17:00+09:00</published>
+      <updated>2021-07-07T18:17:00+09:00</updated>
+      <id>https://gedge-platform.github.io/technology-basic</id>
+      <content type="html" xml:base="https://gedge-platform.github.io/technology-basic">&lt;h4&gt;GEdge 플랫폼 이란? &lt;/h4&gt;
+&lt;p&gt;GEdge Platform(Griffin-Edge Platform)은 응답 속도 민감형 서비스를 위해, 다양한 클라우드 및 엣지 컴퓨팅 인프라를 연동하여 대규모 확장성을 갖춘 클라우드 엣지 컴퓨팅 인프라를 구성하고 이를 기반으로 코어 클라우드-클라우드 엣지-단말간 서비스의 분산 협업을 통한 초저지연 데이터 처리를 지원하는 클라우드 엣지 SW 플랫폼이다.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;클라우드 엣지 컴퓨팅 : 
+엣지에서 클라우드 서비스 기반의 컴퓨팅 환경을 제공하고 클라우드-엣지-단말, 엣지-엣지간 협업을 통한 지능형 서비스를 제공하는 분산 클라우드 컴퓨팅 방식&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/built/images/edge_concept.png&quot; alt=&quot;Cloud Edge Computing&quot; width=&quot;900&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
+&lt;h4&gt;GEdge 플랫폼 핵심 요소 기술 &lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;../../assets/built/images/needs.png&quot; alt=&quot;Cloud Edge Computing Need Technology&quot; width=&quot;900&quot; class=&quot;center&quot; /&gt;
+&lt;img src=&quot;../../assets/built/images/coretech.png&quot; alt=&quot;Cloud Edge Computing Core Technology&quot; width=&quot;800&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
+&lt;h4&gt;GEdge 플랫폼 개념도 &lt;/h4&gt;
+&lt;p&gt;GEdge 플랫폼은 응답 속도 민감형 서비스를 위해, 코어 클라우드-클라우드 엣지-단말 간 협업 기반 초저지연 데이터 처리를 지원한다. &lt;br /&gt; 
+&lt;img src=&quot;../../assets/built/images/concept_diagram.png&quot; alt=&quot;GEdge Platform Conceptual Diagram&quot; width=&quot;800&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
+&lt;h4&gt;GEdge 플랫폼 기능 프레임워크 &amp;amp; SW 스택 &lt;/h4&gt;
+&lt;p&gt;GEdge 플랫폼은 2개의 핵심 플랫폼 및 5개의 기능 프레임워크로 구성되며 인프라 레이어부터 서비스 레이어까지의 구성 및 관리 기능을 제공한다.&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;주요 특징&lt;/strong&gt;
+  &lt;li&gt;&lt;strong&gt;GS&lt;/strong&gt;(&lt;strong&gt;G&lt;/strong&gt;edge &lt;strong&gt;S&lt;/strong&gt;ervice) 플랫폼 : 대규모 엣지 데이터 저지연 처리 및 서비스 협업 통한 지능형 서비스 최적화 제공 서비스 플랫폼
     &lt;ul&gt;
-      &lt;li&gt;초저지연 서비스를 위한 대규모 엣지 데이터 처리 가속 기능&lt;/li&gt;
-      &lt;li&gt;초저지연 데이터 입출력을 위한 메모리 기반 고속 데이터 저장 및 공유 기능&lt;/li&gt;
-      &lt;li&gt;데이터 전송 가속을 위한 데이터 필터링 및 다채널 기반 데이터 전송 기능&lt;/li&gt;
-      &lt;li&gt;효율적 자원 활용을 위한 최적의 클라우드 엣지 응용 실행 환경 제공&lt;/li&gt;
-      &lt;li&gt;다양한 서버에서 엣지 응용의 실행 지원을 위한 플랫폼 호환성 보장&lt;/li&gt;
-      &lt;li&gt;다양한 단말 환경을 위한 이종 프로토콜 메시지 연동 보장&lt;/li&gt;
+      &lt;li&gt;GS-Engine : 초저지연 데이터 처리 프레임워크&lt;/li&gt;
+      &lt;li&gt;GS-Link : 수직-수평적 서비스 협업 프레임워크&lt;/li&gt;
+      &lt;li&gt;GS-AI : 지능형 서비스 운용 프레임워크&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;GS-Engine 기능 구조도&lt;/strong&gt;
-&lt;img src=&quot;../../assets/built/images/gsenginearchi.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;800&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;GS-Engine 주요 기술 구성도&lt;/strong&gt;
-&lt;img src=&quot;../../assets/built/images/gsengine-archi.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;700&quot; class=&quot;left&quot; /&gt;
-    &lt;h4&gt;GS-Engine 주요 기술 &lt;/h4&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;서비스 성능 보장을 위한 컴퓨팅 가속 자원 선점 기술&lt;/strong&gt;
+  &lt;li&gt;&lt;strong&gt;GM&lt;/strong&gt;(&lt;strong&gt;G&lt;/strong&gt;edge &lt;strong&gt;M&lt;/strong&gt;anagement) 플랫폼 : 가변형 클라우드 엣지 플랫폼 구성/관리 및 워크스페이스 기반 관리 도구 제공 관리 플랫폼
     &lt;ul&gt;
-      &lt;li&gt;이종의 가속 자원(CPU, GPU, FPGA) 선점 지원&lt;/li&gt;
-      &lt;li&gt;자원 연결 토폴로지 분석(Resource Affinity) 기반 자원 선점 &lt;br /&gt;
-&lt;img src=&quot;../../assets/built/images/hwalloc.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;700&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;GM-Center : 플랫폼 관리 프레임워크&lt;/li&gt;
+      &lt;li&gt;GM-Tool : 플랫폼 관리 도구 프레임워크&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;서비스 성능 강화를 위한 고속 네트워크 데이터 패스 기반 데이터 전송 가속 기술&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;네트워크 가상화 지원 NIC 기반 고속 데이터 패스 커널 지원&lt;/li&gt;
-      &lt;li&gt;정책 기반 고속 라우팅 및 필터링을 통한 데이터 전송 가속&lt;/li&gt;
-      &lt;li&gt;다중 네트워크 인터페이스 구성ㆍ관리 기술 기반 클라우드 엣지 노드간 통신 채널 확장&lt;/li&gt;
-      &lt;li&gt;다채널 오버레이 네트워크 확장을 통한 컨테이너 기반의 고속 데이터패스 최적화 지원
-&lt;img src=&quot;../../assets/built/images/nicacc.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;700&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;서비스 성능 보장을 위한 최적 자원 배치 엣지 전용 스케줄러 기술&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;단일 클라우드 엣지 기반 최적 자원 배치 로컬 전용 스케줄러&lt;/li&gt;
-      &lt;li&gt;다중 클라우드 엣지 환경에 최적화된 글로벌 전용 스케줄러&lt;/li&gt;
-      &lt;li&gt;엣지-코어, 엣지-엣지간 전역적인 데이터 분산 처리 및 서비스 협업 지원&lt;/li&gt;
-      &lt;li&gt;처리 비용 최소화 및 수집 데이터 기반 지능형 스케줄러
-&lt;img src=&quot;../../assets/built/images/aischedule.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;700&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;서비스 고속 런칭을 위한 엣지 응용 실행 가속 기술&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;템플릿/Ready 이미지 풀을 이용한 응용 프로그램 고속 실행&lt;/li&gt;
-      &lt;li&gt;계층적 캐시를 이용한 서비스 사전 패치&lt;/li&gt;
-      &lt;li&gt;로그 기반 분석(사용 빈도/시계열 분석)을 통한 이미지 재사용으로 고속 실행&lt;/li&gt;
-      &lt;li&gt;서비스 실행 환경 사전 준비 지원 서비스 프리워밍(Pre-Warming)
-&lt;img src=&quot;../../assets/built/images/gsimage.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;650&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;대규모 이종 단말 프로토콜 처리를 위한 메시지 브로커 기술&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;다양한 엣지 디바이스 지원을 위한 이종 단말 메시지 브로커 기술&lt;/li&gt;
-      &lt;li&gt;SMQ 기반의 이종 엣지 디바이스 데이터 고속 처리 기술&lt;/li&gt;
-      &lt;li&gt;gRPC를 활용한 엣지 서비스로의 저지연 메시지 전달 기술&lt;/li&gt;
-      &lt;li&gt;메시지 브로커를 활용한 분산 메시지 처리 환경
-&lt;img src=&quot;../../assets/built/images/gsbroker.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;720&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content>
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/built/images/swstack.png&quot; alt=&quot;GEdge Platform SW Stack&quot; width=&quot;950&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
+&lt;h4&gt;GEdge 플랫폼 아키텍쳐 &lt;/h4&gt;
+&lt;p&gt;GEdge 플랫폼은 정의된 SW 스택을 기반으로 코어 클라우드-클라우드 엣지간의 서비스 협업을 지원하고 서비스 개발자 및 운영자에게 QoE 보장 서비스 배포 기능을 제공한다.
+&lt;img src=&quot;../../assets/built/images/archi.png&quot; alt=&quot;GEdge Platform Architecture&quot; width=&quot;950&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;</content>
 
       
       
@@ -125,104 +98,7 @@ GS-Engine(초처지연 데이터 처리 프레임워크)은 대규모 앳지 데
       
 
       
-        <summary type="html">GS-AI 란? GS-Engine(초처지연 데이터 처리 프레임워크)은 대규모 앳지 데이터의 전주기 처리 가속 및 고속 네트워크 전송 기술을 기반으로 지능형 서비스의 응답시간을 보장한다. 주요 특징 초저지연 서비스를 위한 대규모 엣지 데이터 처리 가속 기능 초저지연 데이터 입출력을 위한 메모리 기반 고속 데이터 저장 및 공유 기능 데이터 전송 가속을 위한 데이터 필터링 및 다채널 기반 데이터 전송 기능 효율적 자원 활용을 위한 최적의 클라우드 엣지 응용 실행 환경 제공 다양한 서버에서 엣지 응용의 실행 지원을 위한 플랫폼 호환성 보장 다양한 단말 환경을 위한 이종 프로토콜 메시지 연동 보장 GS-Engine 기능 구조도 GS-Engine 주요 기술 구성도 GS-Engine 주요 기술 서비스 성능 보장을 위한 컴퓨팅 가속 자원 선점 기술 이종의 가속 자원(CPU, GPU, FPGA) 선점 지원 자원 연결 토폴로지 분석(Resource Affinity) 기반 자원 선점 서비스 성능 강화를 위한 고속 네트워크 데이터 패스 기반 데이터 전송 가속 기술 네트워크 가상화 지원 NIC 기반 고속 데이터 패스 커널 지원 정책 기반 고속 라우팅 및 필터링을 통한 데이터 전송 가속 다중 네트워크 인터페이스 구성ㆍ관리 기술 기반 클라우드 엣지 노드간 통신 채널 확장 다채널 오버레이 네트워크 확장을 통한 컨테이너 기반의 고속 데이터패스 최적화 지원 서비스 성능 보장을 위한 최적 자원 배치 엣지 전용 스케줄러 기술 단일 클라우드 엣지 기반 최적 자원 배치 로컬 전용 스케줄러 다중 클라우드 엣지 환경에 최적화된 글로벌 전용 스케줄러 엣지-코어, 엣지-엣지간 전역적인 데이터 분산 처리 및 서비스 협업 지원 처리 비용 최소화 및 수집 데이터 기반 지능형 스케줄러 서비스 고속 런칭을 위한 엣지 응용 실행 가속 기술 템플릿/Ready 이미지 풀을 이용한 응용 프로그램 고속 실행 계층적 캐시를 이용한 서비스 사전 패치 로그 기반 분석(사용 빈도/시계열 분석)을 통한 이미지 재사용으로 고속 실행 서비스 실행 환경 사전 준비 지원 서비스 프리워밍(Pre-Warming) 대규모 이종 단말 프로토콜 처리를 위한 메시지 브로커 기술 다양한 엣지 디바이스 지원을 위한 이종 단말 메시지 브로커 기술 SMQ 기반의 이종 엣지 디바이스 데이터 고속 처리 기술 gRPC를 활용한 엣지 서비스로의 저지연 메시지 전달 기술 메시지 브로커를 활용한 분산 메시지 처리 환경</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">GS-Center 프레임워크</title>
-      <link href="https://gedge-platform.github.io/technology-center" rel="alternate" type="text/html" title="GS-Center 프레임워크" />
-      <published>2021-06-24T19:18:00+09:00</published>
-      <updated>2021-06-24T19:18:00+09:00</updated>
-      <id>https://gedge-platform.github.io/technology-center</id>
-      <content type="html" xml:base="https://gedge-platform.github.io/technology-center">&lt;h4&gt;GS-Center 란? &lt;/h4&gt;
-&lt;p&gt;&lt;br /&gt;
-GS-Engine(초처지연 데이터 처리 프레임워크)은 대규모 앳지 데이터의 전주기 처리 가속 및 고속 네트워크 전송 기술을 기반으로 지능형 서비스의 응답시간을 보장한다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;주요 특징&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;초저지연 서비스를 위한 대규모 엣지 데이터 처리 가속 기능&lt;/li&gt;
-      &lt;li&gt;초저지연 데이터 입출력을 위한 메모리 기반 고속 데이터 저장 및 공유 기능&lt;/li&gt;
-      &lt;li&gt;데이터 전송 가속을 위한 데이터 필터링 및 다채널 기반 데이터 전송 기능&lt;/li&gt;
-      &lt;li&gt;효율적 자원 활용을 위한 최적의 클라우드 엣지 응용 실행 환경 제공&lt;/li&gt;
-      &lt;li&gt;다양한 서버에서 엣지 응용의 실행 지원을 위한 플랫폼 호환성 보장&lt;/li&gt;
-      &lt;li&gt;다양한 단말 환경을 위한 이종 프로토콜 메시지 연동 보장&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;GS-Engine 기능 구조도&lt;/strong&gt;
-&lt;img src=&quot;../../assets/built/images/gsenginearchi.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;800&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;GS-Engine 주요 기술 구성도&lt;/strong&gt;
-&lt;img src=&quot;../../assets/built/images/gsengine-archi.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;700&quot; class=&quot;left&quot; /&gt;
-    &lt;h4&gt;GS-Engine 주요 기술 &lt;/h4&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;서비스 성능 보장을 위한 컴퓨팅 가속 자원 선점 기술&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;이종의 가속 자원(CPU, GPU, FPGA) 선점 지원&lt;/li&gt;
-      &lt;li&gt;자원 연결 토폴로지 분석(Resource Affinity) 기반 자원 선점 &lt;br /&gt;
-&lt;img src=&quot;../../assets/built/images/hwalloc.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;700&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;서비스 성능 강화를 위한 고속 네트워크 데이터 패스 기반 데이터 전송 가속 기술&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;네트워크 가상화 지원 NIC 기반 고속 데이터 패스 커널 지원&lt;/li&gt;
-      &lt;li&gt;정책 기반 고속 라우팅 및 필터링을 통한 데이터 전송 가속&lt;/li&gt;
-      &lt;li&gt;다중 네트워크 인터페이스 구성ㆍ관리 기술 기반 클라우드 엣지 노드간 통신 채널 확장&lt;/li&gt;
-      &lt;li&gt;다채널 오버레이 네트워크 확장을 통한 컨테이너 기반의 고속 데이터패스 최적화 지원
-&lt;img src=&quot;../../assets/built/images/nicacc.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;700&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;서비스 성능 보장을 위한 최적 자원 배치 엣지 전용 스케줄러 기술&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;단일 클라우드 엣지 기반 최적 자원 배치 로컬 전용 스케줄러&lt;/li&gt;
-      &lt;li&gt;다중 클라우드 엣지 환경에 최적화된 글로벌 전용 스케줄러&lt;/li&gt;
-      &lt;li&gt;엣지-코어, 엣지-엣지간 전역적인 데이터 분산 처리 및 서비스 협업 지원&lt;/li&gt;
-      &lt;li&gt;처리 비용 최소화 및 수집 데이터 기반 지능형 스케줄러
-&lt;img src=&quot;../../assets/built/images/aischedule.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;700&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;서비스 고속 런칭을 위한 엣지 응용 실행 가속 기술&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;템플릿/Ready 이미지 풀을 이용한 응용 프로그램 고속 실행&lt;/li&gt;
-      &lt;li&gt;계층적 캐시를 이용한 서비스 사전 패치&lt;/li&gt;
-      &lt;li&gt;로그 기반 분석(사용 빈도/시계열 분석)을 통한 이미지 재사용으로 고속 실행&lt;/li&gt;
-      &lt;li&gt;서비스 실행 환경 사전 준비 지원 서비스 프리워밍(Pre-Warming)
-&lt;img src=&quot;../../assets/built/images/gsimage.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;650&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;대규모 이종 단말 프로토콜 처리를 위한 메시지 브로커 기술&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;다양한 엣지 디바이스 지원을 위한 이종 단말 메시지 브로커 기술&lt;/li&gt;
-      &lt;li&gt;SMQ 기반의 이종 엣지 디바이스 데이터 고속 처리 기술&lt;/li&gt;
-      &lt;li&gt;gRPC를 활용한 엣지 서비스로의 저지연 메시지 전달 기술&lt;/li&gt;
-      &lt;li&gt;메시지 브로커를 활용한 분산 메시지 처리 환경
-&lt;img src=&quot;../../assets/built/images/gsbroker.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;720&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>manager</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="technology" />
-      
-
-      
-        <summary type="html">GS-Center 란? GS-Engine(초처지연 데이터 처리 프레임워크)은 대규모 앳지 데이터의 전주기 처리 가속 및 고속 네트워크 전송 기술을 기반으로 지능형 서비스의 응답시간을 보장한다. 주요 특징 초저지연 서비스를 위한 대규모 엣지 데이터 처리 가속 기능 초저지연 데이터 입출력을 위한 메모리 기반 고속 데이터 저장 및 공유 기능 데이터 전송 가속을 위한 데이터 필터링 및 다채널 기반 데이터 전송 기능 효율적 자원 활용을 위한 최적의 클라우드 엣지 응용 실행 환경 제공 다양한 서버에서 엣지 응용의 실행 지원을 위한 플랫폼 호환성 보장 다양한 단말 환경을 위한 이종 프로토콜 메시지 연동 보장 GS-Engine 기능 구조도 GS-Engine 주요 기술 구성도 GS-Engine 주요 기술 서비스 성능 보장을 위한 컴퓨팅 가속 자원 선점 기술 이종의 가속 자원(CPU, GPU, FPGA) 선점 지원 자원 연결 토폴로지 분석(Resource Affinity) 기반 자원 선점 서비스 성능 강화를 위한 고속 네트워크 데이터 패스 기반 데이터 전송 가속 기술 네트워크 가상화 지원 NIC 기반 고속 데이터 패스 커널 지원 정책 기반 고속 라우팅 및 필터링을 통한 데이터 전송 가속 다중 네트워크 인터페이스 구성ㆍ관리 기술 기반 클라우드 엣지 노드간 통신 채널 확장 다채널 오버레이 네트워크 확장을 통한 컨테이너 기반의 고속 데이터패스 최적화 지원 서비스 성능 보장을 위한 최적 자원 배치 엣지 전용 스케줄러 기술 단일 클라우드 엣지 기반 최적 자원 배치 로컬 전용 스케줄러 다중 클라우드 엣지 환경에 최적화된 글로벌 전용 스케줄러 엣지-코어, 엣지-엣지간 전역적인 데이터 분산 처리 및 서비스 협업 지원 처리 비용 최소화 및 수집 데이터 기반 지능형 스케줄러 서비스 고속 런칭을 위한 엣지 응용 실행 가속 기술 템플릿/Ready 이미지 풀을 이용한 응용 프로그램 고속 실행 계층적 캐시를 이용한 서비스 사전 패치 로그 기반 분석(사용 빈도/시계열 분석)을 통한 이미지 재사용으로 고속 실행 서비스 실행 환경 사전 준비 지원 서비스 프리워밍(Pre-Warming) 대규모 이종 단말 프로토콜 처리를 위한 메시지 브로커 기술 다양한 엣지 디바이스 지원을 위한 이종 단말 메시지 브로커 기술 SMQ 기반의 이종 엣지 디바이스 데이터 고속 처리 기술 gRPC를 활용한 엣지 서비스로의 저지연 메시지 전달 기술 메시지 브로커를 활용한 분산 메시지 처리 환경</summary>
+        <summary type="html">GEdge 플랫폼 이란? GEdge Platform(Griffin-Edge Platform)은 응답 속도 민감형 서비스를 위해, 다양한 클라우드 및 엣지 컴퓨팅 인프라를 연동하여 대규모 확장성을 갖춘 클라우드 엣지 컴퓨팅 인프라를 구성하고 이를 기반으로 코어 클라우드-클라우드 엣지-단말간 서비스의 분산 협업을 통한 초저지연 데이터 처리를 지원하는 클라우드 엣지 SW 플랫폼이다.</summary>
       
 
       
@@ -232,8 +108,8 @@ GS-Engine(초처지연 데이터 처리 프레임워크)은 대규모 앳지 데
     <entry>
       <title type="html">GS-Engine 프레임워크</title>
       <link href="https://gedge-platform.github.io/technology-engine" rel="alternate" type="text/html" title="GS-Engine 프레임워크" />
-      <published>2021-06-24T19:18:00+09:00</published>
-      <updated>2021-06-24T19:18:00+09:00</updated>
+      <published>2021-07-06T19:18:00+09:00</published>
+      <updated>2021-07-06T19:18:00+09:00</updated>
       <id>https://gedge-platform.github.io/technology-engine</id>
       <content type="html" xml:base="https://gedge-platform.github.io/technology-engine">&lt;h4&gt;GS-Engine 이란? &lt;/h4&gt;
 &lt;p&gt;&lt;br /&gt;
@@ -330,8 +206,8 @@ GS-Engine(초처지연 데이터 처리 프레임워크)은 대규모 앳지 데
     <entry>
       <title type="html">GS-Link 프레임워크</title>
       <link href="https://gedge-platform.github.io/technology-link" rel="alternate" type="text/html" title="GS-Link 프레임워크" />
-      <published>2021-06-24T19:18:00+09:00</published>
-      <updated>2021-06-24T19:18:00+09:00</updated>
+      <published>2021-07-05T19:18:00+09:00</published>
+      <updated>2021-07-05T19:18:00+09:00</updated>
       <id>https://gedge-platform.github.io/technology-link</id>
       <content type="html" xml:base="https://gedge-platform.github.io/technology-link">&lt;h4&gt;GS-Link 란? &lt;/h4&gt;
 &lt;p&gt;&lt;br /&gt;
@@ -416,6 +292,103 @@ GS-Link(서비스 협업 프레임워크)는 엣지 서비스의 고속 이동 �
 
       
         <summary type="html">GS-Link 란? GS-Link(서비스 협업 프레임워크)는 엣지 서비스의 고속 이동 및 연동을 통한 이동형 객체 서비스의 연속성 보장 및 클라우드 엣지와 클라우드, 클라우드 엣지 간 협업을 통한 서비스 최적 실행 환경 선정 및 오프로딩을 지원한다.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">GS-AI 프레임워크</title>
+      <link href="https://gedge-platform.github.io/technology-ai" rel="alternate" type="text/html" title="GS-AI 프레임워크" />
+      <published>2021-07-04T19:18:00+09:00</published>
+      <updated>2021-07-04T19:18:00+09:00</updated>
+      <id>https://gedge-platform.github.io/technology-ai</id>
+      <content type="html" xml:base="https://gedge-platform.github.io/technology-ai">&lt;h4&gt;GS-AI 란? &lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;
+GS-Engine(초처지연 데이터 처리 프레임워크)은 대규모 앳지 데이터의 전주기 처리 가속 및 고속 네트워크 전송 기술을 기반으로 지능형 서비스의 응답시간을 보장한다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;주요 특징&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;초저지연 서비스를 위한 대규모 엣지 데이터 처리 가속 기능&lt;/li&gt;
+      &lt;li&gt;초저지연 데이터 입출력을 위한 메모리 기반 고속 데이터 저장 및 공유 기능&lt;/li&gt;
+      &lt;li&gt;데이터 전송 가속을 위한 데이터 필터링 및 다채널 기반 데이터 전송 기능&lt;/li&gt;
+      &lt;li&gt;효율적 자원 활용을 위한 최적의 클라우드 엣지 응용 실행 환경 제공&lt;/li&gt;
+      &lt;li&gt;다양한 서버에서 엣지 응용의 실행 지원을 위한 플랫폼 호환성 보장&lt;/li&gt;
+      &lt;li&gt;다양한 단말 환경을 위한 이종 프로토콜 메시지 연동 보장&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GS-Engine 기능 구조도&lt;/strong&gt;
+&lt;img src=&quot;../../assets/built/images/gsenginearchi.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;800&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GS-Engine 주요 기술 구성도&lt;/strong&gt;
+&lt;img src=&quot;../../assets/built/images/gsengine-archi.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;700&quot; class=&quot;left&quot; /&gt;
+    &lt;h4&gt;GS-Engine 주요 기술 &lt;/h4&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;서비스 성능 보장을 위한 컴퓨팅 가속 자원 선점 기술&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;이종의 가속 자원(CPU, GPU, FPGA) 선점 지원&lt;/li&gt;
+      &lt;li&gt;자원 연결 토폴로지 분석(Resource Affinity) 기반 자원 선점 &lt;br /&gt;
+&lt;img src=&quot;../../assets/built/images/hwalloc.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;700&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;서비스 성능 강화를 위한 고속 네트워크 데이터 패스 기반 데이터 전송 가속 기술&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;네트워크 가상화 지원 NIC 기반 고속 데이터 패스 커널 지원&lt;/li&gt;
+      &lt;li&gt;정책 기반 고속 라우팅 및 필터링을 통한 데이터 전송 가속&lt;/li&gt;
+      &lt;li&gt;다중 네트워크 인터페이스 구성ㆍ관리 기술 기반 클라우드 엣지 노드간 통신 채널 확장&lt;/li&gt;
+      &lt;li&gt;다채널 오버레이 네트워크 확장을 통한 컨테이너 기반의 고속 데이터패스 최적화 지원
+&lt;img src=&quot;../../assets/built/images/nicacc.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;700&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;서비스 성능 보장을 위한 최적 자원 배치 엣지 전용 스케줄러 기술&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;단일 클라우드 엣지 기반 최적 자원 배치 로컬 전용 스케줄러&lt;/li&gt;
+      &lt;li&gt;다중 클라우드 엣지 환경에 최적화된 글로벌 전용 스케줄러&lt;/li&gt;
+      &lt;li&gt;엣지-코어, 엣지-엣지간 전역적인 데이터 분산 처리 및 서비스 협업 지원&lt;/li&gt;
+      &lt;li&gt;처리 비용 최소화 및 수집 데이터 기반 지능형 스케줄러
+&lt;img src=&quot;../../assets/built/images/aischedule.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;700&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;서비스 고속 런칭을 위한 엣지 응용 실행 가속 기술&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;템플릿/Ready 이미지 풀을 이용한 응용 프로그램 고속 실행&lt;/li&gt;
+      &lt;li&gt;계층적 캐시를 이용한 서비스 사전 패치&lt;/li&gt;
+      &lt;li&gt;로그 기반 분석(사용 빈도/시계열 분석)을 통한 이미지 재사용으로 고속 실행&lt;/li&gt;
+      &lt;li&gt;서비스 실행 환경 사전 준비 지원 서비스 프리워밍(Pre-Warming)
+&lt;img src=&quot;../../assets/built/images/gsimage.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;650&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;대규모 이종 단말 프로토콜 처리를 위한 메시지 브로커 기술&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;다양한 엣지 디바이스 지원을 위한 이종 단말 메시지 브로커 기술&lt;/li&gt;
+      &lt;li&gt;SMQ 기반의 이종 엣지 디바이스 데이터 고속 처리 기술&lt;/li&gt;
+      &lt;li&gt;gRPC를 활용한 엣지 서비스로의 저지연 메시지 전달 기술&lt;/li&gt;
+      &lt;li&gt;메시지 브로커를 활용한 분산 메시지 처리 환경
+&lt;img src=&quot;../../assets/built/images/gsbroker.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;720&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>manager</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="technology" />
+      
+
+      
+        <summary type="html">GS-AI 란? GS-Engine(초처지연 데이터 처리 프레임워크)은 대규모 앳지 데이터의 전주기 처리 가속 및 고속 네트워크 전송 기술을 기반으로 지능형 서비스의 응답시간을 보장한다. 주요 특징 초저지연 서비스를 위한 대규모 엣지 데이터 처리 가속 기능 초저지연 데이터 입출력을 위한 메모리 기반 고속 데이터 저장 및 공유 기능 데이터 전송 가속을 위한 데이터 필터링 및 다채널 기반 데이터 전송 기능 효율적 자원 활용을 위한 최적의 클라우드 엣지 응용 실행 환경 제공 다양한 서버에서 엣지 응용의 실행 지원을 위한 플랫폼 호환성 보장 다양한 단말 환경을 위한 이종 프로토콜 메시지 연동 보장 GS-Engine 기능 구조도 GS-Engine 주요 기술 구성도 GS-Engine 주요 기술 서비스 성능 보장을 위한 컴퓨팅 가속 자원 선점 기술 이종의 가속 자원(CPU, GPU, FPGA) 선점 지원 자원 연결 토폴로지 분석(Resource Affinity) 기반 자원 선점 서비스 성능 강화를 위한 고속 네트워크 데이터 패스 기반 데이터 전송 가속 기술 네트워크 가상화 지원 NIC 기반 고속 데이터 패스 커널 지원 정책 기반 고속 라우팅 및 필터링을 통한 데이터 전송 가속 다중 네트워크 인터페이스 구성ㆍ관리 기술 기반 클라우드 엣지 노드간 통신 채널 확장 다채널 오버레이 네트워크 확장을 통한 컨테이너 기반의 고속 데이터패스 최적화 지원 서비스 성능 보장을 위한 최적 자원 배치 엣지 전용 스케줄러 기술 단일 클라우드 엣지 기반 최적 자원 배치 로컬 전용 스케줄러 다중 클라우드 엣지 환경에 최적화된 글로벌 전용 스케줄러 엣지-코어, 엣지-엣지간 전역적인 데이터 분산 처리 및 서비스 협업 지원 처리 비용 최소화 및 수집 데이터 기반 지능형 스케줄러 서비스 고속 런칭을 위한 엣지 응용 실행 가속 기술 템플릿/Ready 이미지 풀을 이용한 응용 프로그램 고속 실행 계층적 캐시를 이용한 서비스 사전 패치 로그 기반 분석(사용 빈도/시계열 분석)을 통한 이미지 재사용으로 고속 실행 서비스 실행 환경 사전 준비 지원 서비스 프리워밍(Pre-Warming) 대규모 이종 단말 프로토콜 처리를 위한 메시지 브로커 기술 다양한 엣지 디바이스 지원을 위한 이종 단말 메시지 브로커 기술 SMQ 기반의 이종 엣지 디바이스 데이터 고속 처리 기술 gRPC를 활용한 엣지 서비스로의 저지연 메시지 전달 기술 메시지 브로커를 활용한 분산 메시지 처리 환경</summary>
       
 
       
@@ -520,48 +493,75 @@ GS-Engine(초처지연 데이터 처리 프레임워크)은 대규모 앳지 데
     </entry>
   
     <entry>
-      <title type="html">GEdge Platform 개념</title>
-      <link href="https://gedge-platform.github.io/technology-basic" rel="alternate" type="text/html" title="GEdge Platform 개념" />
-      <published>2021-06-24T18:17:00+09:00</published>
-      <updated>2021-06-24T18:17:00+09:00</updated>
-      <id>https://gedge-platform.github.io/technology-basic</id>
-      <content type="html" xml:base="https://gedge-platform.github.io/technology-basic">&lt;h4&gt;GEdge 플랫폼 이란? &lt;/h4&gt;
-&lt;p&gt;GEdge Platform(Griffin-Edge Platform)은 응답 속도 민감형 서비스를 위해, 다양한 클라우드 및 엣지 컴퓨팅 인프라를 연동하여 대규모 확장성을 갖춘 클라우드 엣지 컴퓨팅 인프라를 구성하고 이를 기반으로 코어 클라우드-클라우드 엣지-단말간 서비스의 분산 협업을 통한 초저지연 데이터 처리를 지원하는 클라우드 엣지 SW 플랫폼이다.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;클라우드 엣지 컴퓨팅 : 
-엣지에서 클라우드 서비스 기반의 컴퓨팅 환경을 제공하고 클라우드-엣지-단말, 엣지-엣지간 협업을 통한 지능형 서비스를 제공하는 분산 클라우드 컴퓨팅 방식&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../assets/built/images/edge_concept.png&quot; alt=&quot;Cloud Edge Computing&quot; width=&quot;900&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
-&lt;h4&gt;GEdge 플랫폼 핵심 요소 기술 &lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;../../assets/built/images/needs.png&quot; alt=&quot;Cloud Edge Computing Need Technology&quot; width=&quot;900&quot; class=&quot;center&quot; /&gt;
-&lt;img src=&quot;../../assets/built/images/coretech.png&quot; alt=&quot;Cloud Edge Computing Core Technology&quot; width=&quot;800&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
-&lt;h4&gt;GEdge 플랫폼 개념도 &lt;/h4&gt;
-&lt;p&gt;GEdge 플랫폼은 응답 속도 민감형 서비스를 위해, 코어 클라우드-클라우드 엣지-단말 간 협업 기반 초저지연 데이터 처리를 지원한다. &lt;br /&gt; 
-&lt;img src=&quot;../../assets/built/images/concept_diagram.png&quot; alt=&quot;GEdge Platform Conceptual Diagram&quot; width=&quot;800&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
-&lt;h4&gt;GEdge 플랫폼 기능 프레임워크 &amp;amp; SW 스택 &lt;/h4&gt;
-&lt;p&gt;GEdge 플랫폼은 2개의 핵심 플랫폼 및 5개의 기능 프레임워크로 구성되며 인프라 레이어부터 서비스 레이어까지의 구성 및 관리 기능을 제공한다.&lt;/p&gt;
+      <title type="html">GS-Center 프레임워크</title>
+      <link href="https://gedge-platform.github.io/technology-center" rel="alternate" type="text/html" title="GS-Center 프레임워크" />
+      <published>2021-06-24T19:18:00+09:00</published>
+      <updated>2021-06-24T19:18:00+09:00</updated>
+      <id>https://gedge-platform.github.io/technology-center</id>
+      <content type="html" xml:base="https://gedge-platform.github.io/technology-center">&lt;h4&gt;GS-Center 란? &lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;
+GS-Engine(초처지연 데이터 처리 프레임워크)은 대규모 앳지 데이터의 전주기 처리 가속 및 고속 네트워크 전송 기술을 기반으로 지능형 서비스의 응답시간을 보장한다.&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;GS&lt;/strong&gt;(&lt;strong&gt;G&lt;/strong&gt;edge &lt;strong&gt;S&lt;/strong&gt;ervice) 플랫폼 : 대규모 엣지 데이터 저지연 처리 및 서비스 협업 통한 지능형 서비스 최적화 제공 서비스 플랫폼
+  &lt;li&gt;&lt;strong&gt;주요 특징&lt;/strong&gt;
     &lt;ul&gt;
-      &lt;li&gt;GS-Engine : 초저지연 데이터 처리 프레임워크&lt;/li&gt;
-      &lt;li&gt;GS-Link : 수직-수평적 서비스 협업 프레임워크&lt;/li&gt;
-      &lt;li&gt;GS-AI : 지능형 서비스 운용 프레임워크&lt;/li&gt;
+      &lt;li&gt;초저지연 서비스를 위한 대규모 엣지 데이터 처리 가속 기능&lt;/li&gt;
+      &lt;li&gt;초저지연 데이터 입출력을 위한 메모리 기반 고속 데이터 저장 및 공유 기능&lt;/li&gt;
+      &lt;li&gt;데이터 전송 가속을 위한 데이터 필터링 및 다채널 기반 데이터 전송 기능&lt;/li&gt;
+      &lt;li&gt;효율적 자원 활용을 위한 최적의 클라우드 엣지 응용 실행 환경 제공&lt;/li&gt;
+      &lt;li&gt;다양한 서버에서 엣지 응용의 실행 지원을 위한 플랫폼 호환성 보장&lt;/li&gt;
+      &lt;li&gt;다양한 단말 환경을 위한 이종 프로토콜 메시지 연동 보장&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;GM&lt;/strong&gt;(&lt;strong&gt;G&lt;/strong&gt;edge &lt;strong&gt;M&lt;/strong&gt;anagement) 플랫폼 : 가변형 클라우드 엣지 플랫폼 구성/관리 및 워크스페이스 기반 관리 도구 제공 관리 플랫폼
+  &lt;li&gt;&lt;strong&gt;GS-Engine 기능 구조도&lt;/strong&gt;
+&lt;img src=&quot;../../assets/built/images/gsenginearchi.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;800&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GS-Engine 주요 기술 구성도&lt;/strong&gt;
+&lt;img src=&quot;../../assets/built/images/gsengine-archi.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;700&quot; class=&quot;left&quot; /&gt;
+    &lt;h4&gt;GS-Engine 주요 기술 &lt;/h4&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;서비스 성능 보장을 위한 컴퓨팅 가속 자원 선점 기술&lt;/strong&gt;
     &lt;ul&gt;
-      &lt;li&gt;GM-Center : 플랫폼 관리 프레임워크&lt;/li&gt;
-      &lt;li&gt;GM-Tool : 플랫폼 관리 도구 프레임워크&lt;/li&gt;
+      &lt;li&gt;이종의 가속 자원(CPU, GPU, FPGA) 선점 지원&lt;/li&gt;
+      &lt;li&gt;자원 연결 토폴로지 분석(Resource Affinity) 기반 자원 선점 &lt;br /&gt;
+&lt;img src=&quot;../../assets/built/images/hwalloc.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;700&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../assets/built/images/swstack.png&quot; alt=&quot;GEdge Platform SW Stack&quot; width=&quot;950&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
-&lt;h4&gt;GEdge 플랫폼 아키텍쳐 &lt;/h4&gt;
-&lt;p&gt;GEdge 플랫폼은 정의된 SW 스택을 기반으로 코어 클라우드-클라우드 엣지간의 서비스 협업을 지원하고 서비스 개발자 및 운영자에게 QoE 보장 서비스 배포 기능을 제공한다.
-&lt;img src=&quot;../../assets/built/images/archi.png&quot; alt=&quot;GEdge Platform Architecture&quot; width=&quot;950&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;</content>
+  &lt;li&gt;&lt;strong&gt;서비스 성능 강화를 위한 고속 네트워크 데이터 패스 기반 데이터 전송 가속 기술&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;네트워크 가상화 지원 NIC 기반 고속 데이터 패스 커널 지원&lt;/li&gt;
+      &lt;li&gt;정책 기반 고속 라우팅 및 필터링을 통한 데이터 전송 가속&lt;/li&gt;
+      &lt;li&gt;다중 네트워크 인터페이스 구성ㆍ관리 기술 기반 클라우드 엣지 노드간 통신 채널 확장&lt;/li&gt;
+      &lt;li&gt;다채널 오버레이 네트워크 확장을 통한 컨테이너 기반의 고속 데이터패스 최적화 지원
+&lt;img src=&quot;../../assets/built/images/nicacc.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;700&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;서비스 성능 보장을 위한 최적 자원 배치 엣지 전용 스케줄러 기술&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;단일 클라우드 엣지 기반 최적 자원 배치 로컬 전용 스케줄러&lt;/li&gt;
+      &lt;li&gt;다중 클라우드 엣지 환경에 최적화된 글로벌 전용 스케줄러&lt;/li&gt;
+      &lt;li&gt;엣지-코어, 엣지-엣지간 전역적인 데이터 분산 처리 및 서비스 협업 지원&lt;/li&gt;
+      &lt;li&gt;처리 비용 최소화 및 수집 데이터 기반 지능형 스케줄러
+&lt;img src=&quot;../../assets/built/images/aischedule.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;700&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;서비스 고속 런칭을 위한 엣지 응용 실행 가속 기술&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;템플릿/Ready 이미지 풀을 이용한 응용 프로그램 고속 실행&lt;/li&gt;
+      &lt;li&gt;계층적 캐시를 이용한 서비스 사전 패치&lt;/li&gt;
+      &lt;li&gt;로그 기반 분석(사용 빈도/시계열 분석)을 통한 이미지 재사용으로 고속 실행&lt;/li&gt;
+      &lt;li&gt;서비스 실행 환경 사전 준비 지원 서비스 프리워밍(Pre-Warming)
+&lt;img src=&quot;../../assets/built/images/gsimage.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;650&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;대규모 이종 단말 프로토콜 처리를 위한 메시지 브로커 기술&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;다양한 엣지 디바이스 지원을 위한 이종 단말 메시지 브로커 기술&lt;/li&gt;
+      &lt;li&gt;SMQ 기반의 이종 엣지 디바이스 데이터 고속 처리 기술&lt;/li&gt;
+      &lt;li&gt;gRPC를 활용한 엣지 서비스로의 저지연 메시지 전달 기술&lt;/li&gt;
+      &lt;li&gt;메시지 브로커를 활용한 분산 메시지 처리 환경
+&lt;img src=&quot;../../assets/built/images/gsbroker.png&quot; alt=&quot;GS-Engine Architecture&quot; width=&quot;720&quot; class=&quot;left&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content>
 
       
       
@@ -582,7 +582,7 @@ GS-Engine(초처지연 데이터 처리 프레임워크)은 대규모 앳지 데
       
 
       
-        <summary type="html">GEdge 플랫폼 이란? GEdge Platform(Griffin-Edge Platform)은 응답 속도 민감형 서비스를 위해, 다양한 클라우드 및 엣지 컴퓨팅 인프라를 연동하여 대규모 확장성을 갖춘 클라우드 엣지 컴퓨팅 인프라를 구성하고 이를 기반으로 코어 클라우드-클라우드 엣지-단말간 서비스의 분산 협업을 통한 초저지연 데이터 처리를 지원하는 클라우드 엣지 SW 플랫폼이다.</summary>
+        <summary type="html">GS-Center 란? GS-Engine(초처지연 데이터 처리 프레임워크)은 대규모 앳지 데이터의 전주기 처리 가속 및 고속 네트워크 전송 기술을 기반으로 지능형 서비스의 응답시간을 보장한다. 주요 특징 초저지연 서비스를 위한 대규모 엣지 데이터 처리 가속 기능 초저지연 데이터 입출력을 위한 메모리 기반 고속 데이터 저장 및 공유 기능 데이터 전송 가속을 위한 데이터 필터링 및 다채널 기반 데이터 전송 기능 효율적 자원 활용을 위한 최적의 클라우드 엣지 응용 실행 환경 제공 다양한 서버에서 엣지 응용의 실행 지원을 위한 플랫폼 호환성 보장 다양한 단말 환경을 위한 이종 프로토콜 메시지 연동 보장 GS-Engine 기능 구조도 GS-Engine 주요 기술 구성도 GS-Engine 주요 기술 서비스 성능 보장을 위한 컴퓨팅 가속 자원 선점 기술 이종의 가속 자원(CPU, GPU, FPGA) 선점 지원 자원 연결 토폴로지 분석(Resource Affinity) 기반 자원 선점 서비스 성능 강화를 위한 고속 네트워크 데이터 패스 기반 데이터 전송 가속 기술 네트워크 가상화 지원 NIC 기반 고속 데이터 패스 커널 지원 정책 기반 고속 라우팅 및 필터링을 통한 데이터 전송 가속 다중 네트워크 인터페이스 구성ㆍ관리 기술 기반 클라우드 엣지 노드간 통신 채널 확장 다채널 오버레이 네트워크 확장을 통한 컨테이너 기반의 고속 데이터패스 최적화 지원 서비스 성능 보장을 위한 최적 자원 배치 엣지 전용 스케줄러 기술 단일 클라우드 엣지 기반 최적 자원 배치 로컬 전용 스케줄러 다중 클라우드 엣지 환경에 최적화된 글로벌 전용 스케줄러 엣지-코어, 엣지-엣지간 전역적인 데이터 분산 처리 및 서비스 협업 지원 처리 비용 최소화 및 수집 데이터 기반 지능형 스케줄러 서비스 고속 런칭을 위한 엣지 응용 실행 가속 기술 템플릿/Ready 이미지 풀을 이용한 응용 프로그램 고속 실행 계층적 캐시를 이용한 서비스 사전 패치 로그 기반 분석(사용 빈도/시계열 분석)을 통한 이미지 재사용으로 고속 실행 서비스 실행 환경 사전 준비 지원 서비스 프리워밍(Pre-Warming) 대규모 이종 단말 프로토콜 처리를 위한 메시지 브로커 기술 다양한 엣지 디바이스 지원을 위한 이종 단말 메시지 브로커 기술 SMQ 기반의 이종 엣지 디바이스 데이터 고속 처리 기술 gRPC를 활용한 엣지 서비스로의 저지연 메시지 전달 기술 메시지 브로커를 활용한 분산 메시지 처리 환경</summary>
       
 
       
