@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="https://gedge-platform.github.io/tag/news/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://gedge-platform.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-07-07T23:49:57+09:00</updated>
+  <updated>2021-07-08T00:58:56+09:00</updated>
   <id>https://gedge-platform.github.io/tag/news/feed.xml</id>
 
   
@@ -36,24 +36,23 @@
 
   
     <entry>
-      <title type="html">GEdge Platform 기본 배포일정</title>
-      <link href="https://gedge-platform.github.io/news-basic" rel="alternate" type="text/html" title="GEdge Platform 기본 배포일정" />
-      <published>2021-06-24T19:18:00+09:00</published>
-      <updated>2021-06-24T19:18:00+09:00</updated>
-      <id>https://gedge-platform.github.io/news-basic</id>
-      <content type="html" xml:base="https://gedge-platform.github.io/news-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. &lt;/span&gt;&lt;/p&gt;
+      <title type="html">GEdge Platform v2.0 소스코드 공유</title>
+      <link href="https://gedge-platform.github.io/news-2ndrelease" rel="alternate" type="text/html" title="GEdge Platform v2.0 소스코드 공유" />
+      <published>2021-07-07T19:18:00+09:00</published>
+      <updated>2021-07-07T19:18:00+09:00</updated>
+      <id>https://gedge-platform.github.io/news-2ndrelease</id>
+      <content type="html" xml:base="https://gedge-platform.github.io/news-2ndrelease">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-basic&quot;&gt;GEdge Platform 기본 배포일정&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-statement&quot;&gt;GEdge Platform 기본 배포일정2&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-basic&quot;&gt;GEdge Platform 제1차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-statement&quot;&gt;GEdge Platform v1.0 소스코드 배포&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-2ndconference&quot;&gt;GEdge Platform 제2차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-2ndrelease&quot;&gt;GEdge Platform v2.0 소스코드 배포&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;이글은 지클 베이직입니다. 78910&lt;/p&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;syntaxHighlight&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-   &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Hello World&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-   &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bar&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+&lt;h4&gt;GEdge 플랫폼 v2.0 소스 코드를 공유해 드립니다. &lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;To be Updated&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
 
       
       
@@ -74,7 +73,7 @@
       
 
       
-        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 기본 배포일정 GEdge Platform 기본 배포일정2</summary>
+        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform v1.0 소스코드 배포 GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform v2.0 소스코드 배포</summary>
       
 
       
@@ -82,18 +81,21 @@
     </entry>
   
     <entry>
-      <title type="html">GEdge Platform 기본 배포일정2</title>
-      <link href="https://gedge-platform.github.io/news-statement" rel="alternate" type="text/html" title="GEdge Platform 기본 배포일정2" />
-      <published>2021-06-24T19:18:00+09:00</published>
-      <updated>2021-06-24T19:18:00+09:00</updated>
-      <id>https://gedge-platform.github.io/news-statement</id>
-      <content type="html" xml:base="https://gedge-platform.github.io/news-statement">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. &lt;/span&gt;&lt;/p&gt;
+      <title type="html">GEdge Platform 2차 컨퍼런스</title>
+      <link href="https://gedge-platform.github.io/news-2ndconference" rel="alternate" type="text/html" title="GEdge Platform 2차 컨퍼런스" />
+      <published>2021-07-01T19:18:00+09:00</published>
+      <updated>2021-07-01T19:18:00+09:00</updated>
+      <id>https://gedge-platform.github.io/news-2ndconference</id>
+      <content type="html" xml:base="https://gedge-platform.github.io/news-2ndconference">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-basic&quot;&gt;GEdge Platform 기본 배포일정&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-statement&quot;&gt;GEdge Platform 기본 배포일정2&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-basic&quot;&gt;GEdge Platform 제1차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-statement&quot;&gt;GEdge Platform v1.0 소스코드 배포&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-2ndconference&quot;&gt;GEdge Platform 제2차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-2ndrelease&quot;&gt;GEdge Platform v2.0 소스코드 배포&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;이글은 지클 베이직입니다. 78910&lt;/p&gt;</content>
+&lt;p&gt;&lt;img src=&quot;../../assets/built/images/2nd_conference.jpg&quot; alt=&quot;2nd-Conference&quot; width=&quot;900&quot; class=&quot;center&quot; /&gt;
+&lt;img src=&quot;../../assets/built/images/2nd_conference02.jpg&quot; alt=&quot;2nd-Conference2&quot; width=&quot;900&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;</content>
 
       
       
@@ -114,7 +116,115 @@
       
 
       
-        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 기본 배포일정 GEdge Platform 기본 배포일정2</summary>
+        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform v1.0 소스코드 배포 GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform v2.0 소스코드 배포</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">GEdge Platform v1.0 소스코드 공유</title>
+      <link href="https://gedge-platform.github.io/news-statement" rel="alternate" type="text/html" title="GEdge Platform v1.0 소스코드 공유" />
+      <published>2020-12-02T19:18:00+09:00</published>
+      <updated>2020-12-02T19:18:00+09:00</updated>
+      <id>https://gedge-platform.github.io/news-statement</id>
+      <content type="html" xml:base="https://gedge-platform.github.io/news-statement">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-basic&quot;&gt;GEdge Platform 제1차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-statement&quot;&gt;GEdge Platform v1.0 소스코드 배포&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-2ndconference&quot;&gt;GEdge Platform 제2차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-2ndrelease&quot;&gt;GEdge Platform v2.0 소스코드 배포&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;GEdge 플랫폼 v1.0 소스 코드를 공유해 드립니다. &lt;/h4&gt;
+&lt;p&gt;GEdge 플랫폼 v1.0은 2개의 핵심 플랫폼 내 3개의 기능 프레임워크에 대한 소스코드를 포함하고 있습니다. gedge-platform v1.0에 포함된 프레임워크 및 모듈은 다음과 같습니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;GS&lt;/strong&gt;(&lt;strong&gt;G&lt;/strong&gt;edge &lt;strong&gt;S&lt;/strong&gt;ervice) 플랫폼
+    &lt;ul&gt;
+      &lt;li&gt;GS-Engine : 초저지연 데이터 처리 프레임워크
+        &lt;ul&gt;
+          &lt;li&gt;GS-Scheduler : 클라우드 엣지 전용 스케줄러 모듈&lt;/li&gt;
+          &lt;li&gt;GS-Broker : 이종 단말 메시지 프로토콜 처리 모듈&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GM&lt;/strong&gt;(&lt;strong&gt;G&lt;/strong&gt;edge &lt;strong&gt;M&lt;/strong&gt;anagement) 플랫폼
+    &lt;ul&gt;
+      &lt;li&gt;GM-Center : 플랫폼 관리 프레임워크&lt;/li&gt;
+      &lt;li&gt;GM-Tool : 플랫폼 관리 도구 프레임워크&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/built/images/1st_releasecomp.png&quot; alt=&quot;1st-release&quot; width=&quot;900&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;gedge-platform v1.0&lt;/strong&gt;소스코드 다운로드 &lt;a href=&quot;https://github.com/gedge-platform/gedge-platform/releases/tag/1.0&quot; target=&quot;_blank&quot;&gt;바로가기&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="news" />
+      
+
+      
+        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform v1.0 소스코드 배포 GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform v2.0 소스코드 배포</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">GEdge Platform 1차 컨퍼런스</title>
+      <link href="https://gedge-platform.github.io/news-basic" rel="alternate" type="text/html" title="GEdge Platform 1차 컨퍼런스" />
+      <published>2020-12-01T19:18:00+09:00</published>
+      <updated>2020-12-01T19:18:00+09:00</updated>
+      <id>https://gedge-platform.github.io/news-basic</id>
+      <content type="html" xml:base="https://gedge-platform.github.io/news-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-basic&quot;&gt;GEdge Platform 제1차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-statement&quot;&gt;GEdge Platform v1.0 소스코드 배포&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-2ndconference&quot;&gt;GEdge Platform 제2차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-2ndrelease&quot;&gt;GEdge Platform v2.0 소스코드 배포&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/built/images/1st_conference.jpg&quot; alt=&quot;1st-Conference&quot; width=&quot;900&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="news" />
+      
+
+      
+        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform v1.0 소스코드 배포 GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform v2.0 소스코드 배포</summary>
       
 
       
